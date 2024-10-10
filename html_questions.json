@@ -1,0 +1,188 @@
+    [
+        {
+            "title": "Why We Use <br> Element",
+            "answer_1": "To Make Text Bold",
+            "answer_2": "To Make Text Italic",
+            "answer_3": "To Add Breakline",
+            "answer_4": "To Create Horizontal Line",
+            "right_answer": "To Add Breakline",
+            "type" : "easy"
+        },
+        {
+            "title": "Is <img> Element Has Attribute href",
+            "answer_1": "Yes",
+            "answer_2": "No Its For Anchor Tag <a>",
+            "answer_3": "All Elements Has This Attribute",
+            "answer_4": "Answer 1 And 3 Is Right",
+            "right_answer": "No Its For Anchor Tag <a>",
+            "type" : "easy"
+        },
+        {
+            "title": "How Can We Make Element Text Bold",
+            "answer_1": "Putting It Inside <b> Tag",
+            "answer_2": "Putting It Inside <strong> Tag",
+            "answer_3": "Customizing It With Font-Weight Property In CSS",
+            "answer_4": "All Answers Is Right",
+            "right_answer": "All Answers Is Right",
+            "type" : "easy"
+        },
+        {
+            "title": "What Is The Right Hierarchy For Creating Part Of Page",
+            "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+            "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+            "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+            "answer_4": "All Solutions Is Wrong",
+            "right_answer": "All Solutions Is Wrong",
+            "type" : "easy"
+        },
+        {
+            "title": "How Can We Include External Page Inside Our HTML Page",
+            "answer_1": "By Using Include in HTML",
+            "answer_2": "By Using Load In HTML",
+            "answer_3": "By Using iFrame Tag",
+            "answer_4": "All Solutions Is Wrong",
+            "right_answer": "By Using iFrame Tag",
+            "type" : "hard"
+        },
+        {
+            "title": "What Is The Tag That Not Exists in HTML",
+            "answer_1": "<object>",
+            "answer_2": "<basefont>",
+            "answer_3": "<abbr>",
+            "answer_4": "All Tags Is Exists in HTML",
+            "right_answer": "All Tags Is Exists in HTML",
+            "type" : "easy"
+        },
+        {
+            "title": "How We Specify Document Type Of HTML5 Page",
+            "answer_1": "<DOCTYPE html>",
+            "answer_2": "<DOCTYPE html5>",
+            "answer_3": "<!DOCTYPE html5>",
+            "answer_4": "<!DOCTYPE html>",
+            "right_answer": "<!DOCTYPE html>",
+            "type" : "easy"
+        },
+        {
+            "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+            "answer_1": "<article>",
+            "answer_2": "<section>",
+            "answer_3": "<blockquote>",
+            "answer_4": "<aside>",
+            "right_answer": "<blockquote>",
+            "type" : "easy"
+        },
+        {
+            "title": "In HTML Can We Use This Way To Add Attributes",
+            "answer_1": "<div class='class-name'>",
+            "answer_2": "<div class=class-name>",
+            "answer_3": "<div class=\"class-name\">",
+            "answer_4": "All Is Right",
+            "right_answer": "All Is Right",
+            "type" : "hard"
+        } ,
+        {
+            "title": "Which of the following is a JavaScript framework?",
+            "answer_1": "Angular",
+            "answer_2": "Laravel",
+            "answer_3": "Spring",
+            "answer_4": "Flask",
+            "right_answer": "Angular",
+            "type" : "easy"
+        },
+        {
+            "title": "What is the output of the following JavaScript code? \n `console.log(typeof null);`",
+            "answer_1": "null",
+            "answer_2": "undefined",
+            "answer_3": "object",
+            "answer_4": "boolean",
+            "right_answer": "object",
+            "type" : "easy"
+        },
+        {
+            "title": "Which of the following languages is used for styling web pages?",
+            "answer_1": "HTML",
+            "answer_2": "CSS",
+            "answer_3": "Python",
+            "answer_4": "JavaScript",
+            "right_answer": "CSS",
+            "type" : "easy"
+        },
+        {
+            "title": "Which built-in function can be used to parse a string to an integer in Python?",
+            "answer_1": "int()",
+            "answer_2": "parseInt()",
+            "answer_3": "float()",
+            "answer_4": "str()",
+            "right_answer": "int()",
+            "type" : "hard"
+        },
+        {
+            "title": "Which of these is used to create a loop in Java?",
+            "answer_1": "for",
+            "answer_2": "while",
+            "answer_3": "do-while",
+            "answer_4": "All of the above",
+            "right_answer": "All of the above",
+            "type" : "easy"
+        },
+        {
+            "title": "Which of the following is the correct syntax for creating an arrow function in JavaScript?",
+            "answer_1": "`function() => {}`",
+            "answer_2": "`() -> {}`",
+            "answer_3": "`() => {}`",
+            "answer_4": "`function => {}`",
+            "right_answer": "`() => {}`",
+            "type" : "hard"
+        },
+        {
+            "title": "In SQL, which command is used to retrieve data from a database?",
+            "answer_1": "SELECT",
+            "answer_2": "RETRIEVE",
+            "answer_3": "GET",
+            "answer_4": "FETCH",
+            "right_answer": "SELECT",
+            "type" : "easy"
+        },
+        {
+            "title": "Which one of the following is a frontend framework?",
+            "answer_1": "Node.js",
+            "answer_2": "Django",
+            "answer_3": "React",
+            "answer_4": "Flask",
+            "right_answer": "React",
+            "type" : "hard"
+        },
+        {
+            "title": "In Git, which command is used to merge two branches?",
+            "answer_1": "git join",
+            "answer_2": "git merge",
+            "answer_3": "git combine",
+            "answer_4": "git push",
+            "right_answer": "git merge",
+            "type" : "easy"
+        },
+        {
+            "title": "Which HTTP method is used to submit data to be processed by a server?",
+            "answer_1": "GET",
+            "answer_2": "POST",
+            "answer_3": "DELETE",
+            "answer_4": "PUT",
+            "right_answer": "POST",
+            "type" : "easy"
+        },
+        {
+            "title": "What does 'OOP' stand for in programming?",
+            "answer_1": "Object-Oriented Programming",
+            "answer_2": "Object-Oriented Procedures",
+            "answer_3": "Optimal Object Programming",
+            "answer_4": "Oriented Object Procedures",
+            "right_answer": "Object-Oriented Programming",
+            "type" : "easy"
+        }
+    ]
+
+
+
+
+
+    
